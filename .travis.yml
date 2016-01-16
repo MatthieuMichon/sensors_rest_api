@@ -2,4 +2,5 @@ language: python
 python:
   - 3.4
 install:
-  - pip install -q Flask
+  - pip install -r requirements.txt
+script: nosetests
