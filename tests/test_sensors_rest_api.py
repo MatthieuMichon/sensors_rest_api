@@ -12,7 +12,7 @@ Main test file.
 class SensorsRestApiTestCases(unittest.TestCase):
 
     def setUp(self):
-        sensors_rest_api.app.testing = True
+        # sensors_rest_api.app.testing = True
         self.app = sensors_rest_api.app.test_client()
 
     def test_dummy(self):
