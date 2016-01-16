@@ -10,8 +10,10 @@ Main test file.
 class SensorsRestApiTestCases(unittest.TestCase):
 
     def setUp(self):
-      pass
+        pass
 
+    def test_dummy(self):
+        pass
 
 if __name__ == '__main__':
     unittest.main()
