@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/MatthieuMichon/sensors_rest_api.svg?branch=master)](https://travis-ci.org/MatthieuMichon/sensors_rest_api)
+
 # Requirements
 
 * Tested on Debian distro.
