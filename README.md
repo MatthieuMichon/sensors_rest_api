@@ -13,3 +13,7 @@ $ virtualenv --python=python3.4 flask
 $ . flask/bin/activate
 $ flask/bin/pip install flask
 ```
+
+# Resources
+http://flask.pocoo.org/docs/0.10/patterns/distribute/
+https://www.jeffknupp.com/blog/2013/08/16/open-sourcing-a-python-project-the-right-way/
