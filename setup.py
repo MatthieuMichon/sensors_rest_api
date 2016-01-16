@@ -7,5 +7,5 @@ setup(
     packages=['sensors_rest_api'],
     include_package_data=True,
     install_requires=['Flask'],
-    test_suit='tests'
+    test_suite='sensors_rest_api.test'
 )
